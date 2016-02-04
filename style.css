@@ -1,0 +1,10 @@
+img {
+    display: block;
+    margin: 0 auto;
+}
+div {
+    justify-content: center;
+}
+body {
+    background-color: rgb(233, 181, 78);
+}
